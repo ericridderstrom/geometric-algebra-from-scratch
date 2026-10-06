@@ -85,7 +85,7 @@ The notebook's `from_kingdon` function uses this to translate kingdon results in
 ## Running it
 
 ```bash
-git clone https://github.com/<your-username>/geometric-algebra-from-scratch.git
+git clone https://github.com/ericridderstrom/geometric-algebra-from-scratch.git
 cd geometric-algebra-from-scratch
 pip install -r requirements.txt
 jupyter lab geometric_algebra_verification.ipynb
